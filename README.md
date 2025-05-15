@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muchemiwamuyu
 - 👀 I’m interested in web develoment and problem solving
 - 🌱 I’m currently Working on my brand
-- 💞️ I’m looking to collaborate on all platforms
+- 💞️ I’m open to collaborate on all platforms
 - 📫 How to reach me: Email = edwinwamuyu199@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: There are 700 new Web developers Annually.
