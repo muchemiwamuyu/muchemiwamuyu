@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building solu
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm deeply interested in **Web Development** and **Problem Solving**
+- 👨‍💻 I'm deeply interested in **Software Development** and **Problem Solving**
 - 🔨 Currently working on my personal brand **UrbanTrends**
 - 🌍 Open to collaboration across all platforms — let’s build something great!
 - 📧 Reach me at: **edwinwamuyu199@gmail.com**
